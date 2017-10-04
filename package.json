@@ -1,0 +1,29 @@
+{
+  "name": "@financial-times/get-origami-repos",
+  "version": "0.0.0",
+  "description": "Get a JSON array of all Origami GitHub repositories",
+  "keywords": [
+    "origami"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Financial-Times/get-origami-repos",
+  "bugs": {
+    "url": "https://github.com/Financial-Times/get-origami-repos/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Financial-Times/get-origami-repos.git"
+  },
+  "engines": {
+    "node": "^8.6.0",
+    "npm": "^5"
+  },
+  "main": "index.js",
+  "bin": "index.js",
+  "dependencies": {
+    "github": "^11.0.0"
+  },
+  "devDependencies": {
+    "npm-prepublish": "^1.2.3"
+  }
+}
