@@ -24,6 +24,6 @@
     "github": "^11.0.0"
   },
   "devDependencies": {
-    "npm-prepublish": "^1.2.3"
+    "@financial-times/origami-service-makefile": "^6.0.0"
   }
 }
