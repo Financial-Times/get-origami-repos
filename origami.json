@@ -1,0 +1,14 @@
+{
+	"description": "Get a JSON array of all Origami GitHub repositories",
+	"origamiType": null,
+	"origamiVersion": 1,
+	"keywords": [
+		"origami"
+	],
+	"support": "https://github.com/Financial-Times/get-origami-repos/issues",
+	"supportStatus": "active",
+	"supportContact": {
+		"email": "origami.support@ft.com",
+		"slack": "financialtimes/ft-origami"
+	}
+}
