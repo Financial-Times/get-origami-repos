@@ -1,5 +1,5 @@
 
-# Get Origami Repos
+# Get Origami Repos [![CircleCI](https://circleci.com/gh/Financial-Times/get-origami-repos.svg?style=svg)](https://circleci.com/gh/Financial-Times/get-origami-repos)
 
 Get a JSON array of all Origami GitHub repositories.
 
